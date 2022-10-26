@@ -1,7 +1,7 @@
 body {
     background-color:#1C1C1C;
 }
-
+nav { display: inline;}
 .texto-principal {
     margin-right: 20%; 
 }
