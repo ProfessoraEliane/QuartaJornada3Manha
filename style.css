@@ -10,9 +10,9 @@ width: 40%;}
 .menu {
    position: relative;
    }
-nav{ background-color: whitesmoke;
-position:  absolute;
-right: 0px; }
+nav{ position:  absolute;
+right: 0px; 
+top: 0px;}
 nav li {
     display: inline;
     margin: 0 0 0 15px; 
