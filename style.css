@@ -9,11 +9,9 @@ header {
 width: 40%;}
 .menu {
    position: relative;
-   margin: 0 auto; 
-}
+   }
 nav{ background-color: whitesmoke;
 position:  relative;
-top: 110px;
 right: 0px; }
 nav li {
     display: inline;
