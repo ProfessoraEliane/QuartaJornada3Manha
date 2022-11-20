@@ -9,7 +9,10 @@ width: 40%;}
    position: relative;
    margin: 0 auto; 
 }
-nav{ background-color: whitesmoke; }
+nav{ background-color: whitesmoke;
+position:  relative;
+top: 110px;
+right: 0px; }
 nav li {
     display: inline;
     margin: 0 0 0 15px; 
