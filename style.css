@@ -23,7 +23,7 @@ text-decoration: none; }
 .texto-principal { background-color: rgb(255, 20, 145, 0.233);}
 h2 { text-align: center; 
     color: #440a2f; 
-    border: 8px dotted black;
+    border: 8px dashed black;
     padding: 5px;
      margin: 3px;
 }
