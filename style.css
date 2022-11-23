@@ -38,6 +38,7 @@ padding: 20px 0px;
     display: inline-block;
     width: 30%;
     margin: 0 25px;
+    box-sizing: border-box;
  }
 .foto { width: 300px; }
 ul {display: inline-block;padding: 70px;}
