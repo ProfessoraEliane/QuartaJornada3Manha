@@ -27,7 +27,8 @@ h2 { text-align: center;
      margin: 3px;
 }
 
-p {text-align: justify ; color:black}
+p {text-align: justify ; color:black;
+text-align: center;}
 .produtos {
     width: 940px;
 margin:0px;
