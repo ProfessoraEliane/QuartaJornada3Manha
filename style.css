@@ -34,5 +34,9 @@ p {text-align: justify ; color:black}
 margin:0px;
 padding: 20px 0px;
  }
+ .produtos li{
+    display: inline-block;
+    width: 30%;
+ }
 .foto { width: 30%; }
 ul {display: inline-block;padding: 70px;}
